@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,oaiusercontent.com
 # Claude & Anthropic
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claudeusercontent.com
 
 # Google Bard
 DOMAIN-SUFFIX,bard.google.com
